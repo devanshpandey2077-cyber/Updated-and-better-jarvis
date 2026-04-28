@@ -11,4 +11,4 @@ Converts speech to text
 Opens applications like Chrome, Notepad, Calculator
 Text-to-speech response
 Modular and clean code structure
-Swastik Pandey(25124107), Johan Binu Joy(25124119) and Dev Ansh Pandey (25124121)
+Created by Swastik Pandey(25124107), Johan Binu Joy(25124119) and Dev Ansh Pandey (25124121)
